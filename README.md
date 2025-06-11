@@ -4,8 +4,7 @@ Conformer implementation translated to Flax/JAX.
 ## Citations
 Original paper [link](https://arxiv.org/abs/2005.08100)
 
-Original implementation all from [This repo](https://github.com/lucidrains/conformer)
-Thank you lucidrains!
+Original torch implementation all from [This repo](https://github.com/lucidrains/conformer).
 
 ```
 @misc{gulati2020conformer,
